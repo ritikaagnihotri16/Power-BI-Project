@@ -1,6 +1,6 @@
 # ABOUT
 
-I have built a Power BI project for a global manufacturing company (Adventure Works) from scratch.  Objectives fpr this project to draw insight through data.
+I have built a Power BI project for a global manufacturing company (Adventure Works) from scratch.  Objectives for this project to draw insight through data.
 
 ## Purpose
 
